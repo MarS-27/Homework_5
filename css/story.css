@@ -24,6 +24,17 @@ body{
     margin-right: 20px;
 }
 
+.header_title{
+    display: inline-block;
+    height: 100%;
+    width: 40%;
+    margin: 0;
+    vertical-align: top;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+
 .header_img{
     display: inline-block;
     height: 100%;
